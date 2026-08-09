@@ -7,7 +7,7 @@ I used the image from this research work: https://www.mdpi.com/2673-2688/4/3/33
 
 A year ago (Sep 2025) two strong multimodal LLMs completely failed this XAI saliency-map test on 6 animals.  
 
-Today Fable-5 is the only model that nails it with precise reasoning: red regions = dog face, suck - neck, bird-1 face, bird-2 body  
+Today Fable-5 is the only model that nails it with precise reasoning: red regions = dog face, suck - neck, bird-1 face, bird-2 wings  
 Prompt details (as designed on September 23 2025): [Saliency Map Question](https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/saliency-map.md)
 
 Code-orchestrated multimodal evaluation closed the gap in <12 months. Real progress.  
