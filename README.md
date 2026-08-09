@@ -13,5 +13,3 @@ Prompt details (as designed on September 23 2025): [Saliency Map Question](https
 Code-orchestrated multimodal evaluation closed the gap in <12 months. Real progress.  
 
 I also handcurated a puzzle with grids (graph) with visibility ranges and a potential murder case being solved as a logical puzzle, Fable did fair job, there are still some gaps in this. OCR-scanned handwritten and handdrawn information is accurately extracted but the reasoning for this task is still an struggle for them. This holds with Multimodal LLMs and DeepSeek models. [Fictional Handcurated Logical Reasoning Puzzle](https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/jane-doe-fictional-logical-reasoning-puzzle.md)
-
-Do you like to try solving the custom created hand-curated puzzle ? :) 
