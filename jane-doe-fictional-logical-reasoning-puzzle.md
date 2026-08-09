@@ -1,4 +1,4 @@
-This is a fictional logic puzzle I created for testing multimodal AI reasoning. All characters and events are imaginary.
+This is a fictional logical reasoning puzzle I created for testing multimodal AI reasoning. All characters and events are imaginary.
 Another naive attempt to create a handcurated, handdrawn logical puzzle to solve the muder of Jane Doe:
 
 I also handcurated a puzzle with grids (graph) with visibility ranges and a potential murder case being solved as a logical puzzle, Fable did fair job, 
