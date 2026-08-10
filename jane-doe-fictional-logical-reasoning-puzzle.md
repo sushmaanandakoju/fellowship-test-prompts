@@ -44,13 +44,13 @@ The handdrawn, handwritten, human generated OCR scanned puzzle pieces:
 
 &#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/1.jpg">Puzzle 1</a></li>
 
-&#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/2.jpg">Puzzle 1</a></li>
+&#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/2.jpg">Puzzle 2</a></li>
 
-&#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/3.jpg">Puzzle 1</a></li>
+&#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/3.jpg">Puzzle 3</a></li>
 
-&#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/4.jpg">Puzzle 1</a></li>
+&#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/4.jpg">Puzzle 4</a></li>
 
-&#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/5.jpg">Puzzle 1</a></li>
+&#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/5.jpg">Puzzle 5</a></li>
 
 </ol>
 
