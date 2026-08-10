@@ -40,6 +40,34 @@ Also this puzzle does not work on some of Publicly visible AI tools/websites for
 
 The handdrawn, handwritten, human generated OCR scanned puzzle pieces:
 
+
+
+<table>
+
+&#x20; <tr>
+
+&#x20;   <td><img src="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/1.jpg" width="200" height="300"></td>
+
+&#x20;   <td><img src="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/2.jpg" width="200" height="300"></td>
+
+&#x20;   <td><img src="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/3.jpg" width="200" height="300"></td>
+
+&#x20; </tr>
+
+&#x20; <tr>
+
+&#x20;   <td><img src="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/4.jpg" width="200" height="300"></td>
+
+&#x20;   <td><img src="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/5.jpg" width="200" height="300"></td>
+
+&#x20;   <td><img src="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/6.jpg" width="200" height="300"></td>
+
+&#x20; </tr>
+
+</table>   
+
+
+
 <ol>
 
 &#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/1.jpg">Puzzle 1</a></li>
@@ -52,7 +80,11 @@ The handdrawn, handwritten, human generated OCR scanned puzzle pieces:
 
 &#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/5.jpg">Puzzle 5</a></li>
 
+&#x09;<li><a href="https://github.com/sushmaanandakoju/fellowship-test-prompts/blob/main/puzzle/6.jpg">Puzzle 6</a></li>
+
 </ol>
+
+
 
 
 
